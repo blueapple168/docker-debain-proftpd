@@ -1,4 +1,4 @@
-# docker-debain-proftpd
+# docker-debain-slim-proftpd
 
 ## Example run for a proftpd instance:
 
